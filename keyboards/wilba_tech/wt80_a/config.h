@@ -131,3 +131,7 @@
 
 // VIA lighting is handled by the keyboard-level code
 #define VIA_CUSTOM_LIGHTING_ENABLE
+
+// define number of combos needed
+#define COMBO_COUNT 1
+

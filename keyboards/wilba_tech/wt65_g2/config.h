@@ -53,3 +53,7 @@
 #define LOCKING_SUPPORT_ENABLE
 /* Locking resynchronize hack */
 #define LOCKING_RESYNC_ENABLE
+
+// define number of combos needed
+#define COMBO_COUNT 1
+
